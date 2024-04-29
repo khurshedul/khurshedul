@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on API for EOC4ALL Application <br>👯 I’m looking to collaborate on Back end Project <br>🤝 I’m looking for help with New Technologies <br>🌱 I’m currently learning React<br>💬 Ask me about asp.net<br>
+🔭 I’m currently working on API for EOC4ALL Application <br>👯 I’m looking to collaborate on Back end Project <br>🤝 I’m looking for help with New Technologies <br>🌱 I’m currently learning React<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
